@@ -21,8 +21,14 @@ This project aims to analyze these factors to build a predictive model that esti
 
 ## Python Libraries Used
 •numpy
+
 •pandas
-•matplotlib, seaborn
+
+•matplotlib
+
+•seaborn
+
 •plotly
+
 •scikit-learn
    
