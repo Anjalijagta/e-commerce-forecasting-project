@@ -13,13 +13,13 @@ This project aims to analyze these factors to build a predictive model that esti
 ## Repository Structure
 1. e-commerce forecasting project.ipynb – Main Jupyter notebook containing all data analysis, modeling, and forecasting steps.
 
-2. /data/ – Folder to store the dataset (ecommerce_amazon_dataset.csv)
+2. /data/ecommerce_amazon_dataset.csv – Folder to store the dataset (ecommerce_amazon_dataset.csv)
 
-##Software Requirements
+## Software Requirements
 1. Python (3.x)
 2. Google Colab or Jupyter Notebook
 
-##Python Libraries Used
+## Python Libraries Used
 •numpy
 •pandas
 •matplotlib, seaborn
